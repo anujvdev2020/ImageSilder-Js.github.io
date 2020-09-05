@@ -1,0 +1,19 @@
+img{
+  height:300px;
+  width:300px;
+  border-radius: 8px;
+  box-shadow: 8px 8px 8px #675454;
+  
+}
+button{
+	margin: 5px 60px;
+}
+body{
+	background-color: #cdcdcd;
+}
+.container{
+	align-items: center;
+	margin: 20px 30%;
+	
+
+}
